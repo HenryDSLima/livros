@@ -3,18 +3,33 @@ Repositório do projeto final da disciplina de Programação Estruturada da Univ
 
 # Sistema de Controle de Livros
 
-Este projeto é um pequeno sistema de controle de livros desenvolvido em linguagem C[cite: 7]. [cite_start]Ele permite o gerenciamento de um catálogo armazenado em memória, oferecendo opções para adicionar, buscar, listar e ordenar livros[cite: 8, 9, 10, 11, 12].
-
-O projeto aplica conceitos fundamentais de Programação Estruturada, incluindo vetores, structs, strings, funções e manipulação de arquivos texto (leitura)[cite: 7, 17].
+Este projeto é um pequeno sistema de controle de livros desenvolvido em linguagem C. Ele permite o gerenciamento de um catálogo armazenado em memória, oferecendo opções para adicionar, buscar, listar e ordenar livros.
 
 ## Integrantes do Grupo
 * Nome do Aluno 1
 * Nome do Aluno 2
 * Nome do Aluno 3
 
-## Como Compilar
+## Como Compilar e Executar
 
-O sistema foi escrito no padrão C99 e não utiliza bibliotecas externas além das bibliotecas padrão do C. Para compilar via terminal, certifique-se de ter um compilador C (como o GCC) instalado e execute o seguinte comando na pasta raiz do projeto:
+Para compilar via terminal, certifique-se de ter um compilador C (GCC) instalado e execute o seguinte comando na pasta raiz do projeto:
 
 ```bash
-gcc main.c -o sistema_livros -std=c99
+gcc main.c -o main
+```
+
+Em seguida, para executar o programa recém-compilado em uma IDE, utilize o comando:
+
+```bash
+./main
+```
+
+Para compilação no terminal Windows:
+
+```bash
+./main.exe
+```
+
+## Banco de Dados
+
+É necessário que o arquivo `livros.txt` esteja no mesmo diretório do arquivo executável para que a carga inicial dos dados funcione corretamente.
