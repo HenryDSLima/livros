@@ -18,17 +18,12 @@ Para compilar via terminal, certifique-se de ter um compilador C (GCC) instalado
 gcc main.c -o main
 ```
 
-Em seguida, para executar o programa recém-compilado em uma IDE, utilize o comando:
+Em seguida, para executar o programa recém-compilado, utilize o comando:
 
 ```bash
 ./main
 ```
 
-Para compilação no terminal Windows:
-
-```bash
-./main.exe
-```
 
 ## Banco de Dados
 
