@@ -1,14 +1,14 @@
 # HenryDSLima/livros
-Repositório do projeto final da disciplina de Programação Estruturada da Universidade Católica de Pernambuco
+Repositório do projeto final da disciplina de Programação Estruturada da Universidade Católica de Pernambuco.
 
 # Sistema de Controle de Livros
 
 Este projeto é um pequeno sistema de controle de livros desenvolvido em linguagem C. Ele permite o gerenciamento de um catálogo armazenado em memória, oferecendo opções para adicionar, buscar, listar e ordenar livros.
 
 ## Integrantes do Grupo
-* Nome do Aluno 1
-* Nome do Aluno 2
-* Nome do Aluno 3
+* Henry de Souza Lima
+* Matheus Gabriel Silva Santos
+* Alan Cezar de Holanda Cavalcanti
 
 ## Como Compilar e Executar
 
