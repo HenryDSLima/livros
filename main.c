@@ -4,7 +4,7 @@
 
 #define MAX_LIVROS 100
 
-// Definicao da struct sem o uso de typedef
+// Definicao da struct
 struct Livro {
     int codigo;
     char titulo[100];
@@ -128,7 +128,6 @@ int main() {
     // Inicializando a variavel para garantir a entrada no laco while
     int opcao = 0;
     
-    // Substituicao do do-while por um laco while simples
     while (opcao != 5) {
         printf("\n============================\n");
         printf("  CONTROLE DE LIVROS\n");
@@ -141,7 +140,7 @@ int main() {
         printf("Escolha uma opcao: ");
         scanf("%d", &opcao);
 
-        // Estrutura de decisao usando apenas if e else if
+        // Estrutura de decisao
         if (opcao == 1) {
             adicionar_livro(livros, &total_livros);
         } 
