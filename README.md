@@ -3,9 +3,9 @@ Repositório do projeto final da disciplina de Programação Estruturada da Univ
 
 # Sistema de Controle de Livros
 
-[cite_start]Este projeto é um pequeno sistema de controle de livros desenvolvido em linguagem C[cite: 7]. [cite_start]Ele permite o gerenciamento de um catálogo armazenado em memória, oferecendo opções para adicionar, buscar, listar e ordenar livros[cite: 8, 9, 10, 11, 12].
+[cite_start] Este projeto é um pequeno sistema de controle de livros desenvolvido em linguagem C[cite: 7]. [cite_start]Ele permite o gerenciamento de um catálogo armazenado em memória, oferecendo opções para adicionar, buscar, listar e ordenar livros[cite: 8, 9, 10, 11, 12].
 
-[cite_start]O projeto aplica conceitos fundamentais de Programação Estruturada, incluindo vetores, structs, strings, funções e manipulação de arquivos texto (leitura)[cite: 7, 17].
+[cite_start] O projeto aplica conceitos fundamentais de Programação Estruturada, incluindo vetores, structs, strings, funções e manipulação de arquivos texto (leitura)[cite: 7, 17].
 
 ## Integrantes do Grupo
 * Nome do Aluno 1
